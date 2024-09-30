@@ -19,17 +19,15 @@ The broad goal of this course is to make your graduate or undergraduate research
 
 ## Preparation 
 
-### REQUIRED to do before the class starts
+### REQUIRED
 
-#### 1) Set up Instructions and Tutorials
+#### Set up Instructions
 
-- You **must** install all necessary software to the computer you will be using in class before the course begins. From the online book [Happy Git and GitHub for the useR](https://happygitwithr.com/github-acct.html), complete **all** of Lessons 4 - 12 (skipping lesson 10, use HTTPS tokens and not SSH), and lessons 13 and/or 14 for troubleshooting if you have any issues. This book is a phenomenal resource for learning git, GitHub, and RStudio integration.
-
-  *Even if you already have R/RStudio installed, please make sure to install the newest versions. At MINIMUM you must have R version 4.2 or greater*
+- From the online book [Happy Git and GitHub for the useR](https://happygitwithr.com/github-acct.html), complete **all** of Lessons 4 - 12 (skipping lesson 10, use HTTPS tokens and not SSH), and lessons 13 and/or 14 for troubleshooting if you have any issues. This book is a phenomenal resource for learning git, GitHub, and RStudio integration.
 
 ### Suggested
 
-If you are joining this class with minimal R experience, OR need a refresher on some of the fundamentals, we HIGHLY suggest working through some of these resources/tutorials:
+If you need a refresher on some R fundamentals, or want more R practice outside this course, we suggest working through some of these resources/tutorials:
 
 
 - [RStudio Primers](https://github.com/rossyndicate/primers/blob/main/README.md) - Interactive
@@ -94,7 +92,7 @@ A final note. The data science field changes extremely quickly. We will teach yo
 | 7    | 9/30          | Power in Statistical Analysis and R Skills Review<br>  Assignment - Power (20 points)                                              | 10/7                |
 | 8    | 10/7          | *Before Class* R, Git and GitHub Setup Instructions<br> **Intro to Git and GitHub**<br>  Assignment - First Git Repo and Pull Request (20 points)                                              | 10/14               |
 | 9    | 10/14         | **Debugging**<br>  Assignment - Debugging LLM Output (20 points)                                                                       | 10/21               |
-| 10   | 10/21         | **Iteration, Functions, API call**<br> s Assignment - National Park Visitation (20 points)                                             | 10/28               |
+| 10   | 10/21         | **Iteration, Functions, API calls**<br> Assignment - National Park Visitation (20 points)                                             | 10/28               |
 | 11   | 10/28         | **Introduction to Working with Geospatial Data; Final Project Overview**                                                          | N/A                 |
 | 12   | 11/4          | **Introduction to Working with Geospatial Data (cont.)** <br>  Assignment - Geospatial Workflows (20 points)                            | 11/11               |
 | 13   | 11/11         | **Nested Modeling**<br>  Assignment - Water quality modeling (20 points)                                                               | 11/18               |
